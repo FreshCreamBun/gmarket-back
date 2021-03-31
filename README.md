@@ -1,3 +1,5 @@
+접속 링크: http://dns-changmin.tk/
+
 ## 사내 중고 거래 서비스 (backend)
 
 - Tech Stack: Spring Boot, JPA, MariaDB
