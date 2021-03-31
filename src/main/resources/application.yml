@@ -2,7 +2,7 @@ spring:
   datasource: #database source 작성
     url: jdbc:mysql://localhost:3306/test1?characterEncoding=UTF-8 # 쿼리 스트링으로 UTF-8 인코딩 설정
     username: root
-    password: ckdals
+    password: 
     driver-class-name: org.mariadb.jdbc.Driver
   jackson:
     property-naming-strategy: SNAKE_CASE
