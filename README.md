@@ -1,6 +1,6 @@
 ## 사내 중고 거래 서비스 (backend)
 
-접속 링크: http://dns-changmin.tk/
+접속 링크: ~~https://dns-changmin.tk/~~ http://27.96.134.173
 
 ### 사용 시나리오
 1. 회원가입
@@ -25,4 +25,4 @@
 
 - Tech Stack: Spring Boot, JPA, MariaDB
 
-- 기타 문서: https://github.com/kcm5756/gabia-intern-document
+- 기타 문서: https://github.com/kcm5756/gmarket-document
